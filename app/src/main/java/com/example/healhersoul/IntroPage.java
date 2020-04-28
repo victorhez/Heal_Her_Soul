@@ -56,7 +56,7 @@ public class IntroPage extends TutorialActivity {
                         .setDrawable(R.drawable.fig_4)
                         .setSummary(getString(R.string.page_4_summary))
                         .build());
-                        finishTutorial();
+
     }
 
     @Override
